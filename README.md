@@ -15,5 +15,8 @@
 - Learning advanced ML algorithms and AI concepts
 - Building smart web applications with Python and Django
 
+## 📈 GitHub Stats
+![Amarjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=am4rjeet&show_icons=true&theme=radical)
+
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/am4rjeet/)
