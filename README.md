@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Amarjeet
 
-🎓 I'm a BCA student with a strong interest in technology and innovation.  
-💻 I love working with **Python** and building full-stack **web applications**.  
-🧠 Currently diving deeper into the world of **Artificial Intelligence** and **Machine Learning**.  
-🚀 Passionate about learning, building, and solving real-world problems through code.
+💻 Full Stack Developer (MERN Stack)  
+🎓 BCA Student  
+🚀 Aspiring Software Engineer (SWE)  
+🤖 Exploring AI Integration & Automation
 
 ## 🛠️ Skills & Tools
-- **Languages:** Python, JavaScript, C, C++
-- **Web:** HTML, CSS, JavaScript, Django, Flask
-- **Database:** MySQL, SQLite
+- **Languages:** Python, JavaScript , 
+- **Web:** HTML, CSS, JavaScript, Django, React
+- **Database:** MySQL, MongoDB
 - **Other Tools:** Git, GitHub, VS Code, Postman
 
 ## 🔭 Current Focus
