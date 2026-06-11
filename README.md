@@ -13,7 +13,7 @@
 
 ## 🔭 Current Focus
 - Learning advanced ML algorithms and AI concepts
-- Building smart web applications with Python and Django
+- Building smart web applications With MERN
 
 ## 📈 GitHub Stats
 ![Amarjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=am4rjeet&show_icons=true&theme=radical)
