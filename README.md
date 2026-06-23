@@ -8,8 +8,8 @@
 ## 🛠️ Skills & Tools
 - **Languages:** Python, JavaScript , 
 - **Web:** HTML, CSS, JavaScript, Django, React
-- **Database:** MySQL, MongoDB
-- **Other Tools:** Git, GitHub, VS Code, Postman
+- **Database:** PostgreSQL, MongoDB
+- **Other Tools:** Git, GitHub, VS Code, Postman, Docker
 
 ## 🔭 Current Focus
 - Learning advanced ML algorithms and AI concepts
